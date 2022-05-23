@@ -1,0 +1,14 @@
+.tasks {
+  /* sample */
+}
+
+.tasks > li{
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+
+.empty {
+  /* sample */
+}
